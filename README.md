@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Parthib314
+- 👋 Hi, I’m @Parthib
 - 👀 I’m interested in ... learning code
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
