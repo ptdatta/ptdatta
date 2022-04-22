@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parthib
 - 👀 I’m interested in ... learning code
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
