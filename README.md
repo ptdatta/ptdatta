@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Parthib
 - 👀 I’m interested in ... learning code
-- 🌱 I’m currently learning ... web dev
+- 🌱 I’m currently learning ... web3 and blockchain
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
