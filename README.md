@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain and Decentralized Technologies**
 
-- 👨‍💻 All of my projects are available at [https://eclectic-croissant-f8cde9.netlify.app](https://eclectic-croissant-f8cde9.netlify.app)
+- 👨‍💻 All of my projects are available at [My Site.](https://eclectic-croissant-f8cde9.netlify.app)
 
 - 💬 Ask me about **React,Solidity,Javascript,Typescript**
 
@@ -33,7 +33,7 @@
 <a href="https://stackoverflow.com/users/19111599/parthib-datta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="parthib-datta" height="30" width="40" /></a>
 <a href="https://codesandbox.com/parthibdutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="parthibdutta02" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/parthibdutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parthibdutta02" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/parthibdutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="parthibdutta02" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/parthibdutta02?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="parthibdutta02" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/parthibdutta02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parthibdutta02" height="30" width="40" /></a>
 </p>
 
