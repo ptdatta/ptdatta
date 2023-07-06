@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain and Decentralized Technologies**
 
-- 👨‍💻 All of my projects are available at [My Site.](https://eclectic-croissant-f8cde9.netlify.app)
+- 👨‍💻 All of my projects are available at [parthiblol](https://parthiblol.netlify.app)
 
 - 💬 Ask me about **React,Solidity,Javascript,Typescript**
 
