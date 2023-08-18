@@ -4,12 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptdatta&label=Profile%20views&color=0e75b6&style=flat" alt="ptdatta" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptdatta" alt="ptdatta" /></a> </p>
-
 <a href="https://chain.link/badge"> <img src="https://chain.link/badge-automation-white" alt="automation secured with chainlink" height=160 width=320></a>
 <a href="https://chain.link/badge"> <img src="https://chain.link/badge-automation-black" alt="automation secured with chainlink" height=160 width=320></a>
 <a href="https://chain.link/badge"> <img src="https://chain.link/badge-randomness-white" alt="randomness secured with chainlink" height=160 width=320></a>
 <a href="https://chain.link/badge"> <img src="https://chain.link/badge-randomness-black" alt="randomness secured with chainlink" height=160 width=320></a>
-
 <p align="left"> <a href="https://twitter.com/parthibdatta123" target="blank"><img src="https://img.shields.io/twitter/follow/parthibdatta123?logo=twitter&style=for-the-badge" alt="parthibdatta123" /></a> </p>
 
 - 🔭 I’m currently working on [kleros-v2](https://github.com/kleros/kleros-v2)
