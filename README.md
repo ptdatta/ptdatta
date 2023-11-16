@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Parthib Datta</h1>
-<h3 align="center">A passionate full stack blockchain developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ptdatta&label=Profile%20views&color=0e75b6&style=flat" alt="ptdatta" /> </p>
 
@@ -11,17 +11,17 @@
 <a href="https://chain.link/badge"> <img src="https://chain.link/badge-randomness-black" alt="randomness secured with chainlink" height=160 width=320></a>
 <p align="left"> <a href="https://twitter.com/parthibdatta123" target="blank"><img src="https://img.shields.io/twitter/follow/parthibdatta123?logo=twitter&style=for-the-badge" alt="parthibdatta123" /></a> </p>
 
-- 🔭 I’m currently working on [kleros-v2](https://github.com/kleros/kleros-v2)
+- 🔭 I’m currently working on [@Layer5](https://layer5.io/)
 
-- 🌱 I’m currently learning **Rust, Solana Development**
+- 🌱 I’m currently learning **DevOps and Cloud-Native**
 
-- 👯 I’m looking to collaborate on **blockchain projects**
+- 👯 I’m looking to collaborate on **Cloud Native projects**
 
-- 🤝 I’m looking for help with **protocal engineering**
+- 🤝 I’m looking for help with **DevOPs engineering**
 
 - 👨‍💻 All of my projects are available at [https://parthiblol.netlify.app](https://parthiblol.netlify.app)
 
-- 💬 Ask me about **react,node,blockchain,solidity**
+- 💬 Ask me about **React,Node,Kubernetes,Docker**
 
 - 📫 How to reach me **parthibdutta02@gmail.com**
 
